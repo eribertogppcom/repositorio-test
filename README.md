@@ -1,6 +1,3 @@
-# repositorio-test
-Esse repositório será usado para alguns testes!!!
-
 # Repositório para testes
 ## Subseção
 Esse teste de edição do README.md serve como tutorial nas submissões de arquivos no repositório.
